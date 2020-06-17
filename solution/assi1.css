@@ -1,0 +1,242 @@
+@media (min-width: 992px) {
+h1{
+	text-align: center;
+	background-color: blue;
+}
+#h1{
+	vertical-align: top;
+	text-align: center;
+	background-color: #aa1100;
+	padding: 10px;
+	margin-left: 70%;
+	margin-top: 0px;
+	border: 1px solid black;
+	border-top: 0px;
+	border-right: 0px
+}
+
+#h2{
+	vertical-align: top;
+	text-align: center;
+	background-color: #ccddaa;
+	padding: 10px;
+	margin-left: 70%;
+	margin-top: 0px;
+	border: 1px solid black;
+	border-top: 0px;
+	border-right: 0px;
+}
+
+#h3{
+	vertical-align: top;
+	text-align: center;
+	background-color: #abcdef;
+	padding: 10px;
+	margin-left: 70%;
+	margin-top: 0px;
+	border: 1px solid black;
+	border-top: 0px;
+	border-right: 0px;
+}
+
+#d1{
+	overflow: auto;
+	position: relative;
+	box-sizing: border-box;
+	float: left;
+	height: 250px;
+	width: 31%;
+	background-color: gray;
+	font-size: 24px;
+	margin: 10px;
+	border: 1px solid black;
+}
+
+#d2{
+	overflow: auto;
+	position: relative;
+	box-sizing: border-box;
+	float: left;
+	height: 250px;
+	width: 31%;
+	background-color: gray;
+	font-size: 24px;
+	margin: 10px;
+	border: 1px solid black;
+}
+
+#d3{
+	overflow: auto;
+	position: relative;
+	box-sizing: border-box;
+	float: left;
+	height: 250px;
+	width: 31%;
+	background-color: gray;
+	font-size: 24px;
+	margin: 10px;
+	border: 1px solid black;
+}
+}
+@media(min-width: 768px) and (max-width: 991px) {
+h1{
+text-align: center;
+background-color: blue;
+}
+#h1{
+	vertical-align: top;
+	text-align: center;
+	background-color: #aa1100;
+	padding: 10px;
+	margin-left: 70%;
+	margin-top: 0px;
+	border: 1px solid black;
+	border-top: 0px;
+	border-right: 0px;
+}
+
+#h2{
+	vertical-align: top;
+	text-align: center;
+	background-color: #ccddaa;
+	padding: 10px;
+	margin-left: 70%;
+	margin-top: 0px;
+	border: 1px solid black;
+	border-top: 0px;
+	border-right: 0px;
+}
+
+#h3{
+	vertical-align: top;
+	text-align: center;
+	background-color: #abcdef;
+	padding: 10px;
+	margin-left: 70%;
+	margin-top: 0px;
+	border: 1px solid black;
+	border-top: 0px;
+	border-right: 0px;
+}
+
+#d1{
+	overflow: auto;
+	position: relative;
+	box-sizing: border-box;
+	float: left;
+	height: 250px;
+	width: 48%;
+	background-color: gray;
+	font-size: 24px;
+	margin: 5px;
+	border: 1px solid black;
+}
+
+#d2{
+	overflow: auto;
+	position: relative;
+	box-sizing: border-box;
+	float: left;
+	height: 250px;
+	width: 48%;
+	background-color: gray;
+	font-size: 24px;
+	margin: 5px;
+	border: 1px solid black;
+}
+
+#d3{
+	overflow: auto;
+	position: relative;
+	box-sizing: border-box;
+	float: left;
+	height: 250px;
+	width: 97%;
+	background-color: gray;
+	font-size: 24px;
+	margin: 5px;
+	border: 1px solid black;
+}
+}
+
+@media (max-width: 767px){
+h1{
+	text-align: center;
+	background-color: blue;
+}
+#h1{
+	vertical-align: top;
+	text-align: center;
+	background-color: #aa1100;
+	padding: 5px;
+	margin-left: 70%;
+	margin-top: 0px;
+	border: 1px solid black;
+	border-top: 0px;
+	border-right: 0px;
+}
+
+#h2{
+	vertical-align: top;
+	text-align: center;
+	background-color: #ccddaa;
+	padding: 5px;
+	margin-left: 70%;
+	margin-top: 0px;
+	border: 1px solid black;
+	border-top: 0px;
+	border-right: 0px;
+}
+
+#h3{
+	vertical-align: top;
+	text-align: center;
+	background-color: #abcdef;
+	padding: 5px;
+	margin-left: 70%;
+	margin-top: 0px;
+	border: 1px solid black;
+	border-top: 0px;
+	border-right: 0px;
+}
+
+#d1{
+	overflow: auto;
+	position: relative;
+	box-sizing: border-box;
+	float: left;
+	height: 250px;
+	width: 97%;
+	background-color: gray;
+	font-size: 24px;
+	margin: 20px;
+	border: 1px solid black;
+}
+
+#d2{
+	overflow: auto;
+	position: relative;
+	box-sizing: border-box;
+	float: left;
+	height: 250px;
+	width: 97%;
+	background-color: gray;
+	font-size: 24px;
+	margin: 20px;
+	border: 1px solid black;
+}
+
+#d3{
+	overflow: auto;
+	position: relative;
+	box-sizing: border-box;
+	float: left;
+	height: 250px;
+	width: 97%;
+	background-color: gray;
+	font-size: 24px;
+	margin: 20px;
+	border: 1px solid black;
+}
+
+}
